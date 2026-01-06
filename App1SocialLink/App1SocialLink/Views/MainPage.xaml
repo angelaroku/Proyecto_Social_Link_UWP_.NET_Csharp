@@ -9,13 +9,15 @@
     Background="#FFC2F2FB" d:DesignHeight="1978.986" d:DesignWidth="1294.203">
 
     
-    <Grid Margin="40">
+ 
+    <Grid Margin="40"> 
+        <!--<Grid para definir mis filas-->
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        
-        <!--Grid con margen de 10 arriba y abajo para el logo y el nombre de la app-->
+
+        <!--Grid grande pantalla completa , este grid solo para el logo y el nombre de la app con margen de 10 arriba y abajo -->
         <Grid Grid.Row="0" Margin="0,10">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto"/>
@@ -25,7 +27,8 @@
             <Image Grid.Column="0" Source="/Assets/SocialLink.png" Width="60"  Height="60" />
             <TextBlock Grid.Column="1" Text="Social Link" VerticalAlignment="Center" FontSize="35" Margin="15,0,0,0"/>
         </Grid>
-
+        
+        <!--Agrpador stack panel con atrib diferentes a grid:  para uso de controles, botones y demas-->
         <StackPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" MaxWidth="400" Spacing="30">
             <Button Content="Entrar con usuario" HorizontalAlignment="Center" Height="82" Width="400" Click="Button_EntradaConUsuario_Click" FontSize="32"/>
             <Button Content="Entrar sin usuario" HorizontalAlignment="Center" Height="82" Width="400" Click="Button_EntradaSinUsuario_Click" FontSize="32"/>

@@ -9,12 +9,12 @@
     Background="#FFC2F2FB" d:DesignHeight="1978.986" d:DesignWidth="1294.203">
 
     <Grid Margin="40">
+        <!--Uso misma estructura de grid y stack panels pra todas las paginas-->
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <!--Grid con margen de 10 arriba y abajo para el logo y el nombre de la app-->
         <Grid Grid.Row="0" Margin="0,10">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto"/>
@@ -25,10 +25,10 @@
             <TextBlock Grid.Column="1" Text="Social Link" VerticalAlignment="Center" FontSize="35" Margin="20,0,0,0"/>
         </Grid>
 
+        <!--bton de para confirar acceso a "Comunidad restringida" + bton VOLVER (con metodo navigate en el .xaml.cs)-->
         <StackPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" MaxWidth="400" Spacing="30">
             <Button Content="Volver" VerticalAlignment="Top" Height="60"  Width="100" FontSize="25" Click="Button_Atras"/>
-
-
+            
             <Button Content="Ver la comunidad" VerticalAlignment="Top" Height="60" Width="400"  FontSize="32" Click="Button_ComunidadSinUsuario"/>
         </StackPanel>
 

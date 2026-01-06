@@ -12,7 +12,7 @@
         
         <StackPanel Orientation="Horizontal" Spacing="6" HorizontalAlignment="Left">
             <Rectangle Fill="LightGray" Width="30" Height="30" RadiusX="6" RadiusY="6"/>
-            <!--Bindear el simbolo con la variable del cs -->
+            <!--Bindeando el simbolo y el texto con la variable del cs -->
             <SymbolIcon x:Name="TagIcon" Symbol="{x:Bind csNuevoIconoNuevaCosa}" />
             <TextBlock x:Name="TagTextBlock" Text="{x:Bind csTextoDeMiNuevaCosa}" />
             

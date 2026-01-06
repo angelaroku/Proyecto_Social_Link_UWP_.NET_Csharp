@@ -17,9 +17,6 @@ using Windows.UI.Xaml.Navigation;
 
 namespace App1SocialLink
 {
-    /// <summary>
-    /// Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
-    /// </summary>
     public sealed partial class EntradaConUsuarioPage : Page
     {
         public EntradaConUsuarioPage()
@@ -28,7 +25,7 @@ namespace App1SocialLink
         }
 
 
-        //metodo para volver al inicio
+        //metodo para volver al inicio llama a pagina Main
         private void Button_Atras(object sender, RoutedEventArgs e)
         {
             Frame.Navigate(typeof(MainPage));

@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|c:\\users\\user\\source\\repos\\faundez_rojas_\u00E1ngela_practica1\\app1sociallink\\app1sociallink\\views\\comunidadsinusuariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|solutionrelative:app1sociallink\\views\\comunidadsinusuariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|c:\\users\\user\\source\\repos\\faundez_rojas_\u00E1ngela_practica1\\app1sociallink\\app1sociallink\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|solutionrelative:app1sociallink\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|c:\\users\\user\\source\\repos\\faundez_rojas_\u00E1ngela_practica1\\app1sociallink\\app1sociallink\\views\\crearnuevousuariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\app1sociallink\\views\\principalusuariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|solutionrelative:app1sociallink\\views\\principalusuariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\app1sociallink\\views\\crearnuevousuariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|solutionrelative:app1sociallink\\views\\crearnuevousuariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|c:\\users\\user\\source\\repos\\faundez_rojas_\u00E1ngela_practica1\\app1sociallink\\app1sociallink\\views\\entradasinusuariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\app1sociallink\\views\\entradasinusuariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|solutionrelative:app1sociallink\\views\\entradasinusuariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\app1sociallink\\views\\entradaconusuariopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|solutionrelative:app1sociallink\\views\\entradaconusuariopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\app1sociallink\\views\\entradaconusuariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1ECE1F16-A5D0-4F54-995B-32C999C63DD4}|App1SocialLink\\App1SocialLink.csproj|solutionrelative:app1sociallink\\views\\entradaconusuariopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,38 +39,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ComunidadSinUsuarioPage.xaml",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Views\\ComunidadSinUsuarioPage.xaml",
-              "RelativeDocumentMoniker": "App1SocialLink\\Views\\ComunidadSinUsuarioPage.xaml",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Views\\ComunidadSinUsuarioPage.xaml",
-              "RelativeToolTip": "App1SocialLink\\Views\\ComunidadSinUsuarioPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-30T21:14:56.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EntradaSinUsuarioPage.xaml",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Views\\EntradaSinUsuarioPage.xaml",
-              "RelativeDocumentMoniker": "App1SocialLink\\Views\\EntradaSinUsuarioPage.xaml",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Views\\EntradaSinUsuarioPage.xaml",
-              "RelativeToolTip": "App1SocialLink\\Views\\EntradaSinUsuarioPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-30T21:13:09.968Z",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "App1SocialLink\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Models\\Usuario.cs",
+              "RelativeToolTip": "App1SocialLink\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:56:36.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PrincipalUsuarioPage.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Views\\PrincipalUsuarioPage.xaml",
+              "RelativeDocumentMoniker": "App1SocialLink\\Views\\PrincipalUsuarioPage.xaml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Views\\PrincipalUsuarioPage.xaml",
+              "RelativeToolTip": "App1SocialLink\\Views\\PrincipalUsuarioPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-30T23:40:45.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CrearNuevoUsuarioPage.xaml",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Views\\CrearNuevoUsuarioPage.xaml",
               "RelativeDocumentMoniker": "App1SocialLink\\Views\\CrearNuevoUsuarioPage.xaml",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Views\\CrearNuevoUsuarioPage.xaml",
               "RelativeToolTip": "App1SocialLink\\Views\\CrearNuevoUsuarioPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-30T21:04:47.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T23:36:46.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntradaSinUsuarioPage.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Views\\EntradaSinUsuarioPage.xaml",
+              "RelativeDocumentMoniker": "App1SocialLink\\Views\\EntradaSinUsuarioPage.xaml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Views\\EntradaSinUsuarioPage.xaml",
+              "RelativeToolTip": "App1SocialLink\\Views\\EntradaSinUsuarioPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-30T23:21:17.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntradaConUsuarioPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Views\\EntradaConUsuarioPage.xaml.cs",
+              "RelativeDocumentMoniker": "App1SocialLink\\Views\\EntradaConUsuarioPage.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Views\\EntradaConUsuarioPage.xaml.cs",
+              "RelativeToolTip": "App1SocialLink\\Views\\EntradaConUsuarioPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:20:06.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntradaConUsuarioPage.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Views\\EntradaConUsuarioPage.xaml",
+              "RelativeDocumentMoniker": "App1SocialLink\\Views\\EntradaConUsuarioPage.xaml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Faundez_Rojas_\u00C1ngela_Practica1\\App1SocialLink\\App1SocialLink\\Views\\EntradaConUsuarioPage.xaml",
+              "RelativeToolTip": "App1SocialLink\\Views\\EntradaConUsuarioPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-30T23:16:48.532Z"
             }
           ]
         }

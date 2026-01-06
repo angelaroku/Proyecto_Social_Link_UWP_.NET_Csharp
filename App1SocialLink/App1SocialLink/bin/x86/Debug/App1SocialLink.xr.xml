@@ -72,6 +72,7 @@
       <RootProperty Name="csTextoDeMiNuevaCosa" />
       <RootProperty Name="csBackgroundColor" />
       <RootProperty Name="csNuevoIconoNuevaCosa" />
+      <RootProperty Name="Width" />
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="Margin" />
     </RootType>
